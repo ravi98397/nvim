@@ -3,7 +3,7 @@ return {
     config = function()
       require('lualine').setup({
         options = {
-          theme = 'dracule'  
+          theme = 'dracula'  
         } 
       })
     end
